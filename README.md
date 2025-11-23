@@ -1,3 +1,2 @@
-# 💫 About Me:
-Estudante de Ciência de Dados e Inteligência Artificial <br>
-FGV - Escola de Matemática Aplicada
+# Henrique Coelho Beltrão 💫
+**Data Science & AI Student @ FGV EMAp**
